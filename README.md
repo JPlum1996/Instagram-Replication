@@ -2,8 +2,6 @@
 
 **Instagram Replica** is a photo sharing app using Parse as its backend.
 
-Time spent: **10** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -13,10 +11,6 @@ The following **required** functionality is completed:
 - [X] The current signed in user is persisted across app restarts
 - [X] User can take a photo, add a caption, and post it to "Instagram"
 - [X] User can view the last 20 posts submitted to "Instagram"
-
-The following **optional** features are implemented:
-
-The following **additional** features are implemented:
 - [X] added a logout page with a sign-in button
 - [X] added smiliar GUI aesthetics (to instagram) (nav bar, etcetera)
 
@@ -29,9 +23,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
